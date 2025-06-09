@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Faizan Shaikh**, an iOS developer with **2+ years of experience** building apps using **Swift, Xcode**, and **SwiftUI**. I have successfully developed and deployed **6+ iOS apps** that include a variety of functionalities from AI-based features to image and video processing.
+Hi, I'm **Faizan Shaikh**, an iOS developer with **2+ years of experience** building apps using **Swift, Xcode**, and **SwiftUI**. I have successfully developed and deployed **8+ iOS apps** that include a variety of functionalities from AI-based features to image and video processing.
 
 ## 🚀 Skills
 
