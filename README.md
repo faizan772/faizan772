@@ -13,7 +13,7 @@ Hi, I'm **Faizan Shaikh**, an iOS developer with **2+ years of experience** buil
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-green?style=for-the-badge&logo=swift)
 ![iOS Development](https://img.shields.io/badge/iOS-Development-lightgrey?style=for-the-badge&logo=apple)
 
-- **Languages:** Swift, Objective-C, Python
+- **Languages:** Swift, Objective-C, 
 - **Frameworks & Tools:** UIKit, SwiftUI, CoreData, PencilKit, PDFKit, Combine
 - **Architecture:** MVVM, MVC, VIPER
 - **Testing:** XCTest, XCUITest
@@ -23,8 +23,9 @@ Hi, I'm **Faizan Shaikh**, an iOS developer with **2+ years of experience** buil
 
 ## 📱 iOS Projects
 
-### AI Art Photo Generator
-A creative app for generating stunning artwork using AI models.
+### Second Phone Number App
+Provides users with a virtual phone number, real-time calling, and SMS functionality.
+Integrated with Twilio, SwiftyStoreKit, and PushKit for VoIP.
 
 ### SnapEdit: AI Background Eraser
 An app that allows users to remove backgrounds and enhance images with AI.
@@ -32,13 +33,8 @@ An app that allows users to remove backgrounds and enhance images with AI.
 ### AI LipSync Video
 Create fun and dynamic lip-sync videos with advanced AI processing.
 
-### [More Projects...](https://github.com/username?tab=repositories)
-
-## 🛠️ What I'm Working On
 
 
-
-I'm currently working on **AI Magic Effect Videos**, where users can create mesmerizing visual effects using AI-powered tools. The project combines video editing and AI magic effects to deliver unique, eye-catching results.
 
 ## 🏆 GitHub Stats
 
